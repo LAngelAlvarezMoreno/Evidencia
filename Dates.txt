@@ -1,0 +1,5 @@
+966171:1/1/2024:0-0:113002:gggg:Hombre:33:113002:gggg:113002:123:PACIENTE:03PATIENT:943221:luis angel alvarez moreno:traumatologo:943221:luis angel alvarez moreno:angell:123:DOCTOR:02DOCTOR
+902154:1/2/2024:7-0:842540:angel:Hombre:35:842540:angel:842540:123:PACIENTE:03PATIENT:943221:luis angel alvarez moreno:traumatologo:943221:luis angel alvarez moreno:angell:123:DOCTOR:02DOCTOR
+756761:1/4/2024:6-45:865943:luis:Hombre:32:865943:luis:865943:123:PACIENTE:03PATIENT:943221:luis angel alvarez moreno:traumatologo:943221:luis angel alvarez moreno:angell:123:DOCTOR:02DOCTOR
+915037:1/6/2024:7-30:714627:Carolina:Hombre:42:714627:Carolina:714627:123:PACIENTE:03PATIENT:619344:Maximiliano Alvarez:Pediatra:619344:Maximiliano Alvarez:Max:123:DOCTOR:02DOCTOR
+163780:1/5/2024:0-0:573630:Maximiliano:Hombre:9:573630:Maximiliano:573630:123:PACIENTE:03PATIENT:787525:nemo nemo:gloub gloub gloub:787525:nemo nemo:nemo:123:DOCTOR:02DOCTOR
